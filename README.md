@@ -12,7 +12,7 @@ Le programme lit le fichier audio wav et génère le code morse décodé en sort
 ## Démarrage rapide
 
 ### Exigences
-Pour l'instant, seul Python 3.10 est pris en charge.
+Pour l'instant, seul Python 3.10 est pris en charge. premièrement installer  "Python 3.10" avec les paths
 
 ###Installation
 
