@@ -20,7 +20,7 @@ Pour l'instant, seul Python 3.10 est pris en charge.
 
 Vous pouvez installer ce package depuis pip, avec
 
-    pip install decodeur-morse-audio
+    pip install morse-audio-decoder
 
 #### Option 2 - Installation locale à partir des sources
 
