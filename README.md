@@ -16,27 +16,25 @@ Pour l'instant, seul Python 3.10 est pris en charge.
 
 ###Installation
 
-#### Option 1 - pépin
+#### Etape 1 - installation de package nécessaire
 
 Vous pouvez installer ce package depuis pip, avec
 
     pip install morse-audio-decoder
 
-#### Option 2 - Installation locale à partir des sources
+#### Etape 2 - Installation locale à partir des sources
 
-Clonez le référentiel de code depuis votre ordinateur local, installez-le à partir de là :
+Clonez le référentiel de code depuis votre ordinateur local, installez-le à partir de là ou telecharger le directement :
 
     clone git https://github.com/zhairiazzeddine/decodeur-morse-audio.git
 
 ### Utilisation
 
-Pour exécuter le script installé avec pip, effectuez
-
-    decodeur-morse-audio "chemin du fichier en extension wav"
-
-ou bien,
+Pour exécuter le script, effectuez
 
     python -m decodeur_morse_audio "chemin du fichier en extension wav
+
+    
 
 où `WAVFILE` est le chemin d'accès au fichier audio à traiter.
 
