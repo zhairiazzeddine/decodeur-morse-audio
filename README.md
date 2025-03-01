@@ -32,7 +32,7 @@ Clonez le référentiel de code depuis votre ordinateur local sur linux, ou tele
 
 Pour exécuter le script allez sur le dossier et ouvrir le CMD, Apres effectuez
 
-    python -m decodeur_morse_audio "chemin du fichier en extension wav
+    python -m decodeur_morse_audio "chemin du fichier en extension wav"
 
     
 
