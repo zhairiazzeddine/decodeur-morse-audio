@@ -24,13 +24,13 @@ Vous pouvez installer ce package depuis pip, avec
 
 #### Etape 2 - Installation locale à partir des sources
 
-Clonez le référentiel de code depuis votre ordinateur local, installez-le à partir de là ou telecharger le directement :
+Clonez le référentiel de code depuis votre ordinateur local sur linux, ou telecharger le directement de cette page:
 
     clone git https://github.com/zhairiazzeddine/decodeur-morse-audio.git
 
 ### Utilisation
 
-Pour exécuter le script, effectuez
+Pour exécuter le script allez sur le dossier et ouvrir le CMD, Apres effectuez
 
     python -m decodeur_morse_audio "chemin du fichier en extension wav
 
